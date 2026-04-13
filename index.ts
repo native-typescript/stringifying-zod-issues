@@ -1,1 +1,1 @@
-export type * as stringifyingZodIssues from "./source/index.ts";
+export * as stringifyingZodIssues from "./source/index.ts";
