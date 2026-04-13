@@ -20,6 +20,7 @@
 - [release-it.config.ts](https://github.com/release-it/release-it/blob/main/docs/configuration.md#configuration) - Configuration of [release-it](https://github.com/release-it/release-it);
 - source - Source code;
   - index.ts - Index of source code;
+  - stringifying-Zod-issues - Main code of stringifying Zod issues;
 - testing - Testing code;
   - core - Core modules;
   - entrypoint-of-testing.ts - Global setup and teardown for tests;
